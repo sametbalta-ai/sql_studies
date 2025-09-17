@@ -1,0 +1,14 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# VS Code settings (istersen)
+.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
